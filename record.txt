@@ -1,2 +1,6 @@
 first -master
+<<<<<<< HEAD
 second-test1
+=======
+third-test3
+>>>>>>> third
